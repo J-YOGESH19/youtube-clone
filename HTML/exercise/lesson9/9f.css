@@ -1,0 +1,46 @@
+.box{
+   box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+   width:3.7cm;
+   height:6cm
+}
+
+
+.cat{  width:3.7cm;
+    height:3.7cm;
+    object-fit:cover;
+     
+}
+  
+
+.name{
+ font-family: Arial;
+ font-weight: bold;
+ font-size: 13px;
+ margin-top: 3px;
+ margin-bottom: 0;
+}
+
+.mutual{
+   font-family: Arial;
+   color:grey ; 
+   font-size: 12px;
+   margin-top: 2px;
+
+}
+
+button{
+    width:2.4cm;
+    font-size: 13px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 6px;
+    border:none;
+    color: white;
+    background-color:  #4C99E9;
+
+
+}
+
+.name,.mutual,button{
+    margin-left: 5px;
+}

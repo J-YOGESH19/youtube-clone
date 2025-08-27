@@ -1,0 +1,36 @@
+
+    p {
+        font-family: Verdana;
+    }
+
+    .Course-text {
+        font-weight: bolder;
+        font-size: 30;
+        margin-bottom: 0;
+    }
+
+    .Beginner-text{
+        color: grey;
+        font-size: 25;
+        margin-top: 5;
+
+    
+    }
+    .paragraph{
+        font-size: 25;
+        width:454.89;
+    }
+
+    button{
+        background-color: rgb(14, 172, 14);
+        border:none;
+        border-radius:9px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 12;
+        padding-bottom: 15;
+        color: white;
+        font:bold;
+        font-size: 25;
+    }
+

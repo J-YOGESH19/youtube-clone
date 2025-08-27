@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    height:50px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(204, 52, 255);
+}
+
+.home{
+    width: 60px;
+}
+
+.input{
+    flex: 1;
+    margin-left: 400px;
+    margin-right: 200px;
+    max-width: 600px;
+
+}
+
+input{
+    max-width:600px;
+}
+
+.Download-button{
+    width:140px
+}

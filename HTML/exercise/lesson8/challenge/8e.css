@@ -1,0 +1,43 @@
+p{
+    font-family: Arial;
+    font-size: 30px;
+    margin-bottom: 15px;
+    
+
+
+}
+
+input{
+    display: block;
+    border:none;
+    background-color: #F0F0F0;
+    margin-bottom: 6px;
+    font-size: 12px;
+    padding-top:14px;
+    padding-bottom: 14px; 
+    padding-left:16px;
+    padding-right: 130px;
+    
+}
+
+button{
+    cursor: pointer;
+}
+
+.Request-button{
+    height:37px;
+    width:100px;
+    color: white;
+    background-color: black;
+    border: none;
+    margin-top: 20px;
+    
+}
+
+.Schedule-button{
+    height:37px;
+    width:135px;
+    border:none;
+    margin-left: 10px;
+    background-color:#eae8e8 ;
+}
